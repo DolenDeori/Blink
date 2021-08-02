@@ -20,7 +20,7 @@ This programme will just blink the built in LED light of arduino uno.
 * After you have selected your Board and Port hit the Upload button on the top left corner right next to the verify button.
 
 * Now install [pyfirmata](https://pyfirmata.readthedocs.io/en/latest/) library. run ```pip install pyfirmata``` .
-* after installing just run the Blink.py file as you run a normal python file.
+* After installing just run the Blink.py file as you run a normal python file.
 
 ### Happy Coding.😉
 
