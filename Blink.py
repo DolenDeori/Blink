@@ -15,6 +15,7 @@ def speak(word):
     model.say(word)
     model.runAndWait()
 
+speak('Hiii ! My name is L E D . my work is to turn ON and OFF ')
 # Defigning the port of our Arduino. In my case it's COMP7
 port = 'COM7'
 board = pyfirmata.Arduino(port) 

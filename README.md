@@ -19,9 +19,9 @@ This programme will just blink the built in LED light of arduino uno.
 * Then go to ``` Tools/Port ``` and select the port avilable in windows it might me as **COM2** , **COMP3** or similar to that. in mac or linux it might be different. But you have to select one of the option avilable.
 * After you have selected your Board and Port hit the Upload button on the top left corner right next to the verify button.
 
-* Now install [pyfirmata](https://www.arduino.cc/en/reference/firmata) library. run ```pip install pyfirmata``` .
+* if you want you can install [pyfirmata](https://www.arduino.cc/en/reference/firmata) library manualy just run ```pip install pyfirmata```. But the Blink.py file will autometically install and import the necessery libraries for you.
 * After installing just run the Blink.py file as you run a normal python file.
 
-### Happy Coding.😉
+### Enjoy.😉
 
 
