@@ -13,8 +13,6 @@ import random       # To generate a random number
 import pyttsx3      # For voice instruction
 
 model = pyttsx3.init()
-voice = model.getProperty('voices')
-model.setProperty('voices' , 2)
 
 PIN = 13
 PORT = 'COM7'
